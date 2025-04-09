@@ -1,5 +1,3 @@
-# Name:  G.G.A.Chamanthra.C.Gurulumulla
-# Student Number:  10664500
 
 # This file is provided to you as a starting point for the "admin.py" program of the Project
 # of Programming Principles in Semester 1, 2024.  It aims to give you just enough code to help ensure
